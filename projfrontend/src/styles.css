@@ -1,9 +1,9 @@
 .btn,
 .jumbotron,
-nav:hover {
+.nav :hover {
   border-radius: 0px;
 }
 
 body {
-  background-color: #343a40;
+  background: #343a40;
 }
