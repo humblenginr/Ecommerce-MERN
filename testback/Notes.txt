@@ -1,0 +1,7 @@
+MIDDLEWARE: 
+  - Middleware is something that comes in between the request and response
+  - this is actually clearly explained in the example code
+  - visit the webpage "writing middleware for use in express apps"
+  - we can declare our middleware and can use it in any route by using
+   "app.use(middleware)" command (This is for express)
+   
